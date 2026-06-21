@@ -33,13 +33,9 @@
 
 🎓 &nbsp; **B.Sc. Computer Engineering** — University of Mosul, Iraq *(2021 – 2026)*
 
-🏫 &nbsp; **Full-Stack Cohort Graduate** — QAF Lab, Tech-Hub, Kirkuk *(2025)*
-
 🔧 &nbsp; **Focused on** Back-End Architecture · REST APIs · Databases
 
 🤖 &nbsp; **Passionate about** AI, Embedded Systems & Computer Vision
-
-🌍 &nbsp; **Based in** Kirkuk, Iraq
 
 📬 &nbsp; **Open to** internships & entry-level back-end roles
 
