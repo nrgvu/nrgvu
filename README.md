@@ -27,34 +27,23 @@
 
 </div>
 
-<br/>
+## 👤 &nbsp; About Me
 
----
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=nrgvu&show_icons=true&hide_border=true&count_private=true&title_color=F26419&icon_color=F26419&text_color=444444&bg_color=fafafa" />
 
-<br/>
+🎓 &nbsp; **B.Sc. Computer Engineering** — University of Mosul, Iraq *(2021 – 2026)*
 
-<!----  ABOUT  ---->
+🏫 &nbsp; **Full-Stack Cohort Graduate** — QAF Lab, Tech-Hub, Kirkuk *(2025)*
 
-```typescript
-const abdulrahman = {
-  degree   : "B.Sc. Computer Engineering — University of Mosul",
-  cohort   : "Full-Stack Web Development — QAF Lab, Kirkuk (2025)",
-  focus    : ["Back-End Architecture", "REST APIs", "Databases", "AI/ML"],
-  building : "Production-grade systems with NestJS · PostgreSQL · TypeScript",
-  shipped  : [
-    "Iraqi Marketplace API  — 11 modules, real-time chat, JWT, Swagger",
-    "Laser Weeding Robot   — 88.8% mAP@50, 28.5 FPS on Raspberry Pi 5",
-    "Page Replacement Simulator — live @ vercel.app",
-  ],
-  openTo   : "Internships & entry-level back-end roles",
-};
-```
+🔧 &nbsp; **Focused on** Back-End Architecture · REST APIs · Databases
 
-<br/>
+🤖 &nbsp; **Passionate about** AI, Embedded Systems & Computer Vision
 
----
+🌍 &nbsp; **Based in** Kirkuk, Iraq
 
-<br/>
+📬 &nbsp; **Open to** internships & entry-level back-end roles
+
+<br clear="right"/>
 
 <!----  TECH STACK  ---->
 
